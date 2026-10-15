@@ -1,0 +1,16 @@
+# Archeville Super-Archy Tournament input
+# Section 1: one team per line -> Team, First Archer, Second Archer
+Gyrhuna, János Diák, Süsü
+Achni, Meilong, Tianlong
+Bathar, Pakhangba, Poubi Lai Paphal
+
+# Section 2: the order in which archers' scores arrive (every archer exactly once)
+János Diák, Meilong, Pakhangba, Süsü, Tianlong, Poubi Lai Paphal
+
+# Section 3: one line per round, circles listed in the player order above
+A, C, E, B, D, F
+A, A, B, A, A, C
+B, A, C, A, A, C
+A, A, D, A, B, D
+A, A, F, B, A, F
+A, A, A, A, A, A

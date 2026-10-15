@@ -1,0 +1,8 @@
+# "Meelong" in the player order is a typo for "Meilong".
+Gyrhuna, János Diák, Süsü
+Achni, Meilong, Tianlong
+Bathar, Pakhangba, Poubi Lai Paphal
+
+János Diák, Meelong, Pakhangba, Süsü, Tianlong, Poubi Lai Paphal
+
+A, C, E, B, D, F

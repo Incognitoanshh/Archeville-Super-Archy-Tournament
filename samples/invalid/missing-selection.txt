@@ -1,0 +1,8 @@
+# Round 1 has only five selections for six archers.
+Gyrhuna, János Diák, Süsü
+Achni, Meilong, Tianlong
+Bathar, Pakhangba, Poubi Lai Paphal
+
+János Diák, Meilong, Pakhangba, Süsü, Tianlong, Poubi Lai Paphal
+
+A, C, E, B, D

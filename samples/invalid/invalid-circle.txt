@@ -1,0 +1,9 @@
+# Round 2 contains a circle that does not exist (Z).
+Gyrhuna, János Diák, Süsü
+Achni, Meilong, Tianlong
+Bathar, Pakhangba, Poubi Lai Paphal
+
+János Diák, Meilong, Pakhangba, Süsü, Tianlong, Poubi Lai Paphal
+
+A, C, E, B, D, F
+A, Z, B, A, A, C
