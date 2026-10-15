@@ -204,3 +204,4 @@ The default is `DEFAULT_WINNING_SCORE = 60` in `src/tournament.js`, and a test c
 5. **Running out of rounds** with nobody at 60 gives "No winner".
 6. **At least two teams** are required for a tournament. The rules do not limit the number of rounds.
 7. **The scoreboard is printed after every round**, and the game is decided only at round boundaries. An archer whose result arrives later in the same round is still scored even if an earlier archer's team has already passed 60.
+# Archeville-Super-Archy-Tournament
